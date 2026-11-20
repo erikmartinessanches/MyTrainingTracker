@@ -1,0 +1,6 @@
+@MTTBack_HostAddress = http://localhost:5194
+
+GET {{MTTBack_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,7 @@
+﻿services:
+  mttback:
+    image: mttback
+    build:
+      context: .
+      dockerfile: Dockerfile
+
